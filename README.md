@@ -19,7 +19,7 @@
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BigdataZjk&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BigdataZjk)](https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigdataZjk&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 
