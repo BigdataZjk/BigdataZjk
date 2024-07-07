@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigdataZjk&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 
-<img align="center" src="https://skillicons.dev/icons?i=py,java,php,html,css,js,powershell,md,idea,git,linux,pytorch,tensorflow,yarn,mysql,wordpress&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,java,php,html,js,powershell,md,idea,git,linux,pytorch,tensorflow,yarn,mysql,wordpress&theme=light" />
 </p>
  
 
