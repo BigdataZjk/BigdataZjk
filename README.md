@@ -26,14 +26,14 @@
 
 ## 语言分布
 
-<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/language-overview-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/language-overview-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/language-overview-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/language-overview-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/language-overview-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/language-overview-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/language-overview-dark.svg"><img src="./assets/language-overview-light.svg" alt="公开源码仓库按主语言统计：Python 6 个，JavaScript 1 个，Kotlin 1 个，Rust 1 个，TypeScript 1 个，Vue 1 个" width="900"></picture>
+<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/language-overview-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/language-overview-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/language-overview-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/language-overview-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/language-overview-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/language-overview-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/language-overview-dark.svg"><img src="./assets/language-overview-light.svg" alt="公开源码仓库按主语言统计：Python 6 个，JavaScript 2 个，Kotlin 1 个，Rust 1 个，TypeScript 1 个，Vue 1 个" width="900"></picture>
 
 <picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-languages-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/project-languages-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-languages-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-languages-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/project-languages-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/project-languages-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/project-languages-dark.svg"><img src="./assets/project-languages-light.svg" alt="精选项目默认分支的源文件字节占比" width="900"></picture>
 
 <details>
 <summary>查看语言数据与统计口径</summary>
 
-**主语言**　非归档、非分叉的公开仓库，以 GitHub 标记的主语言计数。Python 6 个（54.5%），JavaScript 1 个（9.1%），Kotlin 1 个（9.1%），Rust 1 个（9.1%），TypeScript 1 个（9.1%），Vue 1 个（9.1%）。
+**主语言**　非归档、非分叉的公开仓库，以 GitHub 标记的主语言计数。Python 6 个（50.0%），JavaScript 2 个（16.7%），Kotlin 1 个（8.3%），Rust 1 个（8.3%），TypeScript 1 个（8.3%），Vue 1 个（8.3%）。
 
 **项目构成**　精选项目默认分支中 Git 记录的源文件字节，过滤依赖目录、构建产物和已识别的生成文件。
 
