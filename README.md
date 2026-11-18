@@ -1,25 +1,59 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20BigdataZjk!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
-</p>
-<p align="center">
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=BigdataZjk&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=BigdataZjk&theme=github-compact&hide_border=true&area=true">
-<br/>
-<img align="center" src="https://skillicons.dev/icons?i=py,java,php,html,js,powershell,md,idea,git,linux,pytorch,tensorflow,nginx,mysql,wordpress&theme=light" />
-</p>
+<!-- 此页由 .profile 与 GitHub Actions 生成 -->
 
-<p align="center">
-<a href="https://github.com/BigdataZjk"><img src="https://img.shields.io/badge/GitHub-BigdataZjk-blue?logo=github" /></a>
-<a href="https://blog.csdn.net/qq_43376286"><img src="https://img.shields.io/badge/CSDN-春马与夏-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
-<a href="https://blog.zhangjinke.com:11443"><img src="https://img.shields.io/badge/网站-春马与夏-pink?logo=webmoney" /></a>
-<img src="https://img.shields.io/badge/QQ-22432832-green?logo=tencentqq" />
-<img src="https://komarev.com/ghpvc/?username=BigdataZjk&abbreviated=true&color=yellow" />
-</p>
- 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
+<picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/terminal-ice-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal-ice-light-still.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-ice-dark.svg"><img src="./assets/terminal-ice-light.svg" alt="BigdataZjk · Software &amp; tools" width="900"></picture>
+
+**Web 应用 · Windows 工具 · Android · 计算机视觉**
+
+[项目](#精选项目)　/　[语言](#语言分布)　/　[博客](#博客文章)　/　[链接](#链接与交流)
+
+## GitHub 概览
+
+<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/profile-stats-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/profile-stats-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/profile-stats-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-stats-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/profile-stats-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/profile-stats-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-stats-dark.svg"><img src="./assets/profile-stats-light.svg" alt="12 个公开仓库，8 个 Star，过去一年 79 次贡献，连续 4 天，年度最长 4 天" width="900"></picture>
+
+## 贡献与活动
+
+<picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/circuit-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/circuit-light-still.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/circuit-dark.svg"><img src="./assets/circuit-light.svg" alt="电路追踪 · BigdataZjk 的公开贡献日历" width="900"></picture>
+
+<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/weekly-activity-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/weekly-activity-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/weekly-activity-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/weekly-activity-dark.svg"><img src="./assets/weekly-activity-light.svg" alt="近 12 周每周贡献：2026-08-30 0 次；2026-09-06 0 次；2026-09-13 1 次；2026-09-20 2 次；2026-09-27 6 次；2026-10-04 10 次；2026-10-11 24 次；2026-10-18 4 次；2026-10-25 3 次；2026-11-01 4 次；2026-11-08 0 次；2026-11-15 17 次" width="900"></picture>
+
+<sub>截至 2026-11-18 · <a href="https://github.com/users/BigdataZjk/contributions">GitHub 公开贡献日历</a></sub>
+
+## 精选项目
+
+<table><tr><td valign="top" width="50%"><a href="https://github.com/BigdataZjk/Gantt"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-gantt-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-gantt-light-still.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/project-gantt-dark.svg"><img src="./assets/project-gantt-light.svg" alt="RSM / Gantt · React / TypeScript / Go / SQLite" width="430"></picture></a><br><strong><a href="https://github.com/BigdataZjk/Gantt">RSM / Gantt</a></strong><br>用需求池、甘特图和工作日历协作排期。<br><sub>更新于 2026-11-18</sub></td><td valign="top" width="50%"><a href="https://github.com/BigdataZjk/GameReady"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-gameready-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-gameready-light-still.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/project-gameready-dark.svg"><img src="./assets/project-gameready-light.svg" alt="GameReady · Rust / Windows" width="430"></picture></a><br><strong><a href="https://github.com/BigdataZjk/GameReady">GameReady</a></strong><br>便携的 Windows 游戏配置工具，支持 NAS 备份。<br><sub>更新于 2026-11-04 &nbsp;·&nbsp; <a href="https://github.com/BigdataZjk/GameReady/releases/latest">发布 v0.1.26</a></sub></td></tr><tr><td valign="top" width="50%"><a href="https://github.com/BigdataZjk/MilkTrackerAPP"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-milktracker-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-milktracker-light-still.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/project-milktracker-dark.svg"><img src="./assets/project-milktracker-light.svg" alt="MilkTrackerAPP · Kotlin / Android" width="430"></picture></a><br><strong><a href="https://github.com/BigdataZjk/MilkTrackerAPP">MilkTrackerAPP</a></strong><br>记录宝宝的喂养时间与奶量。<br><sub>更新于 2026-06-12</sub></td><td valign="top" width="50%"><a href="https://github.com/BigdataZjk/YOLOv8-PySide6-GUI"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-vision-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-vision-light-still.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/project-vision-dark.svg"><img src="./assets/project-vision-light.svg" alt="YOLO GUI · Python / PySide6" width="430"></picture></a><br><strong><a href="https://github.com/BigdataZjk/YOLOv8-PySide6-GUI">YOLO GUI</a></strong><br>为 YOLO 系列视觉模型提供图形界面。<br><sub>更新于 2023-09-18 &nbsp;·&nbsp; 1 Star</sub></td></tr></table>
+
+[查看全部公开仓库](https://github.com/BigdataZjk?tab=repositories)
+
+## 语言分布
+
+<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/language-overview-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/language-overview-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/language-overview-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/language-overview-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/language-overview-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/language-overview-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/language-overview-dark.svg"><img src="./assets/language-overview-light.svg" alt="公开源码仓库按主语言统计：Python 6 个，JavaScript 1 个，Kotlin 1 个，Rust 1 个，TypeScript 1 个，Vue 1 个" width="900"></picture>
+
+<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-languages-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/project-languages-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-languages-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-languages-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/project-languages-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/project-languages-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/project-languages-dark.svg"><img src="./assets/project-languages-light.svg" alt="精选项目默认分支的源文件字节占比" width="900"></picture>
+
+<details>
+<summary>查看语言数据与统计口径</summary>
+
+**主语言**　非归档、非分叉的公开仓库，以 GitHub 标记的主语言计数。Python 6 个（54.5%），JavaScript 1 个（9.1%），Kotlin 1 个（9.1%），Rust 1 个（9.1%），TypeScript 1 个（9.1%），Vue 1 个（9.1%）。
+
+**项目构成**　精选项目默认分支中 Git 记录的源文件字节，过滤依赖目录、构建产物和已识别的生成文件。
+
+- **RSM / Gantt** TypeScript 54.2% / Go 19.7% / Shell 14.2% / CSS 8.2% / Other 3.7%
+- **GameReady** Rust 62.7% / HTML 22.5% / JavaScript 13.8% / PowerShell 1.0%
+- **MilkTrackerAPP** Kotlin 100.0%
+- **YOLO GUI** Python 100.0%
+
+</details>
+
+## 技术栈
+
+<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/tech-stack-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/tech-stack-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/tech-stack-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/tech-stack-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/tech-stack-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg"><img src="./assets/tech-stack-light.svg" alt="Web：TypeScript、React、Go、SQLite；Apps：Rust、Kotlin、Android；Vision &amp; tooling：Python、PySide6、OpenCV、Git、Linux" width="900"></picture>
+
+## 博客文章
+
+<ul><li><a href="https://blog.zhangjinke.com:11443/121.html">Spark SQL高阶函数（数组&amp;Map）</a></li><li><a href="https://blog.zhangjinke.com:11443/115.html">宝宝记奶APP</a></li><li><a href="https://blog.zhangjinke.com:11443/112.html">Docker部署Windows</a></li></ul>
+
+## 链接与交流
+
+<table><tr><td><strong><a href="https://github.com/BigdataZjk?tab=repositories">GitHub · 全部仓库</a></strong></td><td>源码与项目发布</td></tr><tr><td><strong><a href="https://blog.zhangjinke.com:11443/">科记 · 个人博客</a></strong></td><td>技术实践与项目记录</td></tr><tr><td><strong><a href="https://blog.csdn.net/qq_43376286">CSDN · 春马与夏</a></strong></td><td>技术文章与旧笔记</td></tr><tr><td><strong>QQ</strong></td><td><code>22432832</code></td></tr></table>
+
+<sub>动效组件 <a href="https://github.com/Sur1ive/contribution-fx">Contribution FX</a> · <a href="https://github.com/monokernn/readme-atelier">Readme Atelier</a></sub>

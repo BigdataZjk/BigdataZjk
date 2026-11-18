@@ -1,0 +1,7 @@
+[
+  {"name":"contribution-fx","repository":"https://github.com/Sur1ive/contribution-fx.git","revision":"f85ea4d675d46d3e597ef10723472180ac15265d","paths":["src", "package.json", "LICENSE"]},
+  {"name":"arcade","repository":"https://github.com/abozanona/pacman-contribution-graph.git","revision":"70945878b1118303b37b88060fc7145e1a57d7b1","paths":["src", "package.json"]},
+  {"name":"atelier","repository":"https://github.com/monokernn/readme-atelier.git","revision":"37869cbb55133bd8594c068a45d77e10556b2dfb","paths":["src", "fonts", "package.json", "LICENSE"]},
+  {"name":"snake","repository":"https://github.com/Platane/snk.git","revision":"a041d6c27ba561a39f5be9c26a784812765e434b","paths":["packages", "package.json"]},
+  {"name":"isometric","repository":"https://github.com/yoshi389111/github-profile-3d-contrib.git","revision":"e235d118909be71eb7edb05482a3de4e76156df3","paths":["src", "package.json", "LICENSE"]}
+]
