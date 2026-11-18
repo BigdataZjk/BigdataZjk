@@ -6,13 +6,13 @@ export function heroAsset(demo) {
   return ready[demo.hero]??`identity-${demo.slug}`;
 }
 
-export function picture(name, alt, { width=900, mobile=responsiveAssets.includes(name) }={}) {
+export function picture(name, alt, { width=900, mobile=responsiveAssets.includes(name), play=false }={}) {
   const conditions=[];
-  if (mobile) conditions.push(
+  if (mobile && !play) conditions.push(
     ['(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)','mobile-dark-still'],
     ['(max-width: 760px) and (prefers-reduced-motion: reduce)','mobile-light-still'],
   );
-  conditions.push(
+  if (!play) conditions.push(
     ['(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)','dark-still'],
     ['(prefers-reduced-motion: reduce)','light-still'],
   );
@@ -66,17 +66,18 @@ function footerLinks() {
 
 export function writeReadme(demo,profile) {
   const main=heroAsset(demo);
+  const arcadeMotion=demo.slug==='arcade';
   const contribution=widgets.find(widget=>widget.id===demo.detail);
   const dataSummary=`${profile.publicRepos} 个公开仓库，${profile.stars} 个 Star，过去一年 ${profile.total} 次贡献，连续 ${profile.streak.current} 天，年度最长 ${profile.streak.longest} 天`;
   const layout=[
     '<!-- 此页由 .profile 与 GitHub Actions 生成 -->',
-    picture(main,main==='isometric'?'BigdataZjk 最近 26 周的等距贡献城市':`${login} · Software & tools`),
+    picture(main,main==='isometric'?'BigdataZjk 最近 26 周的等距贡献城市':`${login} · Software & tools`,{play:arcadeMotion}),
     '**Web 应用 · Windows 工具 · Android · 计算机视觉**\n\n[项目](#精选项目)　/　[语言](#语言分布)　/　[博客](#博客文章)　/　[链接](#链接与交流)',
     '## GitHub 概览\n\n'+picture('profile-stats',dataSummary),
     '## 贡献与活动\n\n'+[
-      ...(main===demo.detail ? [] : [picture(demo.detail,`${contribution.name} · ${login} 的公开贡献日历`)]),
+      ...(main===demo.detail ? [] : [picture(demo.detail,`${contribution.name} · ${login} 的公开贡献日历`,{play:arcadeMotion})]),
       picture('weekly-activity',`近 12 周每周贡献：${profile.weekly.map(week=>`${week.date} ${week.count} 次`).join('；')}`),
-      `<sub>截至 ${profile.through} · <a href="${calendarUrl}">GitHub 公开贡献日历</a></sub>`,
+      `<sub>截至 ${profile.through} · <a href="${calendarUrl}">GitHub 公开贡献日历</a>${arcadeMotion?' · <a href="./assets/identity-arcade-dark-still.svg">静态横幅</a> · <a href="./assets/pacman-dark-still.svg">静态贡献图</a>':''}</sub>`,
     ].join('\n\n'),
     `## 精选项目\n\n${projectTable(profile)}\n\n[查看全部公开仓库](${links[0].url})`,
     `## 语言分布\n\n${picture('language-overview','公开源码仓库按主语言统计：'+profile.primary.entries.map(entry=>`${entry.name} ${entry.value} 个`).join('，'))}\n\n${picture('project-languages','精选项目默认分支的源文件字节占比')}\n\n${languageDetails(profile)}`,

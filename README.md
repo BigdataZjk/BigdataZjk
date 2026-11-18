@@ -1,6 +1,6 @@
 <!-- 此页由 .profile 与 GitHub Actions 生成 -->
 
-<picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/identity-arcade-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/identity-arcade-light-still.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/identity-arcade-dark.svg"><img src="./assets/identity-arcade-light.svg" alt="BigdataZjk · Software &amp; tools" width="900"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/identity-arcade-dark.svg"><img src="./assets/identity-arcade-light.svg" alt="BigdataZjk · Software &amp; tools" width="900"></picture>
 
 **Web 应用 · Windows 工具 · Android · 计算机视觉**
 
@@ -12,11 +12,11 @@
 
 ## 贡献与活动
 
-<picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/pacman-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/pacman-light-still.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-dark.svg"><img src="./assets/pacman-light.svg" alt="吃豆人 · BigdataZjk 的公开贡献日历" width="900"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-dark.svg"><img src="./assets/pacman-light.svg" alt="吃豆人 · BigdataZjk 的公开贡献日历" width="900"></picture>
 
 <picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/weekly-activity-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/weekly-activity-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/weekly-activity-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/weekly-activity-dark.svg"><img src="./assets/weekly-activity-light.svg" alt="近 12 周每周贡献：2026-08-30 0 次；2026-09-06 0 次；2026-09-13 1 次；2026-09-20 2 次；2026-09-27 6 次；2026-10-04 10 次；2026-10-11 24 次；2026-10-18 4 次；2026-10-25 3 次；2026-11-01 4 次；2026-11-08 0 次；2026-11-15 17 次" width="900"></picture>
 
-<sub>截至 2026-11-18 · <a href="https://github.com/users/BigdataZjk/contributions">GitHub 公开贡献日历</a></sub>
+<sub>截至 2026-11-18 · <a href="https://github.com/users/BigdataZjk/contributions">GitHub 公开贡献日历</a> · <a href="./assets/identity-arcade-dark-still.svg">静态横幅</a> · <a href="./assets/pacman-dark-still.svg">静态贡献图</a></sub>
 
 ## 精选项目
 

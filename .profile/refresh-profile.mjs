@@ -54,7 +54,7 @@ try {
 
   const draft=path.join(stage,'demos',`${config.id}-${config.slug}`);
   const markdown=fs.readFileSync(path.join(draft,'README.md'),'utf8');
-  const filenames=[...new Set([...markdown.matchAll(/(?:src|srcset)="\.\/assets\/([^"/]+)"/g)].map(match=>match[1]))];
+  const filenames=[...new Set([...markdown.matchAll(/(?:src|srcset|href)="\.\/assets\/([^"/]+\.svg)"/g)].map(match=>match[1]))];
   if (filenames.length<20) throw new Error('Incomplete profile: too few linked assets');
   for (const name of filenames) {
     const data=fs.readFileSync(path.join(draft,'assets',name),'utf8');
