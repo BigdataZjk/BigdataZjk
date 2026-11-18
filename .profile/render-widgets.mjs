@@ -31,7 +31,7 @@ function writeAsset(name, svg) {
   if (typeof svg !== 'string' || !/<svg\b/.test(svg) || /<script\b|<foreignObject\b/i.test(svg)) throw new Error(`Invalid SVG: ${name}`);
   const file=path.join(assetDir,`${name}.svg`);
   fs.mkdirSync(path.dirname(file),{recursive:true});
-  fs.writeFileSync(file,svg,'utf8');
+  fs.writeFileSync(file,svg.replace(/[ \t]+(?=\r?$)/gm,''),'utf8');
 }
 
 function freeze(svg) {
