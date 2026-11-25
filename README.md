@@ -8,15 +8,15 @@
 
 ## GitHub 概览
 
-<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/profile-stats-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/profile-stats-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/profile-stats-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-stats-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/profile-stats-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/profile-stats-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-stats-dark.svg"><img src="./assets/profile-stats-light.svg" alt="12 个公开仓库，8 个 Star，过去一年 95 次贡献，连续 2 天，年度最长 6 天" width="900"></picture>
+<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/profile-stats-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/profile-stats-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/profile-stats-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-stats-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/profile-stats-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/profile-stats-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-stats-dark.svg"><img src="./assets/profile-stats-light.svg" alt="12 个公开仓库，8 个 Star，过去一年 98 次贡献，连续 2 天，年度最长 6 天" width="900"></picture>
 
 ## 贡献与活动
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-dark.svg"><img src="./assets/pacman-light.svg" alt="吃豆人 · BigdataZjk 的公开贡献日历" width="900"></picture>
 
-<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/weekly-activity-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/weekly-activity-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/weekly-activity-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/weekly-activity-dark.svg"><img src="./assets/weekly-activity-light.svg" alt="近 12 周每周贡献：2026-09-06 0 次；2026-09-13 1 次；2026-09-20 2 次；2026-09-27 6 次；2026-10-04 10 次；2026-10-11 24 次；2026-10-18 4 次；2026-10-25 3 次；2026-11-01 4 次；2026-11-08 0 次；2026-11-15 24 次；2026-11-22 9 次" width="900"></picture>
+<picture><source media="(max-width: 760px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-mobile-dark-still.svg"><source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="./assets/weekly-activity-mobile-light-still.svg"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-dark-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/weekly-activity-light-still.svg"><source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/weekly-activity-mobile-dark.svg"><source media="(max-width: 760px)" srcset="./assets/weekly-activity-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/weekly-activity-dark.svg"><img src="./assets/weekly-activity-light.svg" alt="近 12 周每周贡献：2026-09-06 0 次；2026-09-13 1 次；2026-09-20 2 次；2026-09-27 6 次；2026-10-04 10 次；2026-10-11 24 次；2026-10-18 4 次；2026-10-25 3 次；2026-11-01 4 次；2026-11-08 0 次；2026-11-15 24 次；2026-11-22 12 次" width="900"></picture>
 
-<sub>截至 2026-11-24 · <a href="https://github.com/users/BigdataZjk/contributions">GitHub 公开贡献日历</a> · <a href="./assets/identity-arcade-dark-still.svg">静态横幅</a> · <a href="./assets/pacman-dark-still.svg">静态贡献图</a></sub>
+<sub>截至 2026-11-25 · <a href="https://github.com/users/BigdataZjk/contributions">GitHub 公开贡献日历</a> · <a href="./assets/identity-arcade-dark-still.svg">静态横幅</a> · <a href="./assets/pacman-dark-still.svg">静态贡献图</a></sub>
 
 ## 精选项目
 
@@ -37,7 +37,7 @@
 
 **项目构成**　精选项目默认分支中 Git 记录的源文件字节，过滤依赖目录、构建产物和已识别的生成文件。
 
-- **RSM / Gantt** TypeScript 53.1% / Go 23.6% / Shell 12.3% / CSS 7.7% / Other 3.2%
+- **RSM / Gantt** TypeScript 53.2% / Go 23.4% / Shell 12.2% / CSS 8.0% / Other 3.2%
 - **GameReady** Rust 62.7% / HTML 22.5% / JavaScript 13.8% / PowerShell 1.0%
 - **MilkTrackerAPP** Kotlin 100.0%
 - **YOLO GUI** Python 100.0%
