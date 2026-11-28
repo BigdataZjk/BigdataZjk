@@ -1,12 +1,12 @@
 {
   "byProject": {
     "Gantt": {
-      "key": "master@2026-11-26T12:53:50Z",
+      "key": "master@2026-11-27T12:31:03Z",
       "counts": {
-        "TypeScript": 895356,
-        "Go": 409768,
-        "Shell": 202325,
-        "CSS": 134659,
+        "TypeScript": 941973,
+        "Go": 447521,
+        "Shell": 205031,
+        "CSS": 141584,
         "JavaScript": 39523,
         "Python": 10678,
         "SQL": 1723,
